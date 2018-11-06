@@ -38,7 +38,7 @@ body{
 	color: white;
 	background-color: #47484B;
 	border-style: solid;
-	border-width: 3px;	
+	border-width: 3px;
 }
 .player_begin{
 	font-size: 20px;
@@ -48,7 +48,7 @@ body{
 	color: #47484B;
 	text-decoration: none;
 	border-style: solid;
-	border-width: 3px;	
+	border-width: 3px;
 	font-size: 24px;
 }
 .sbuttons:hover{
@@ -57,5 +57,8 @@ body{
 	background-color: #47484B;
 	text-decoration: none;
 	border-style: solid;
-	border-width: 3px;	
+	border-width: 3px;
+}
+.git-image{
+  align-items: center;
 }
